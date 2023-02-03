@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.timurkhabibulin.myapplication
 
 import android.os.Bundle
 import android.util.Log

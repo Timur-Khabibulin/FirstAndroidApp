@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.timurkhabibulin.myapplication
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
